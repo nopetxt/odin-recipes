@@ -1,1 +1,1 @@
-The current project is going to be creating a basic recipe website.
+The current project is going to be creating a basic recipe website for odin.
